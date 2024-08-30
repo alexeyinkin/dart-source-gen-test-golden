@@ -1,3 +1,7 @@
+## 1.0.8
+
+- Deprecated the package in favor of the original [source_gen_test](https://pub.dev/packages/source_gen_test) because `ShouldGenerateFile` was merged there.
+
 ## 1.0.7
 
 - Updated dependencies.

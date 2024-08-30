@@ -1,5 +1,5 @@
 name: source_gen_test_golden
-version: 1.0.6
+version: 1.0.8
 description: >-
   Test support for the source_gen package.
   Allows to compare the output of a generator with a golden file.

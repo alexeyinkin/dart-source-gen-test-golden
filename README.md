@@ -1,4 +1,6 @@
-This package is similar to [source_gen_test],
+**This feature is merged into the original [source_gen_test](https://pub.dev/packages/source_gen_test) package as of version 1.1.0. This fork is therefore deprecated.**
+
+This package is similar to [source_gen_test](https://pub.dev/packages/source_gen_test),
 but it allows you to compare the output of a generator with a golden Dart file.
 
 ## Usage
